@@ -1,0 +1,40 @@
+.wrapper{
+    width: 900PX;
+    margin: 0 auto;
+    font-family: lato;
+    margin-top: 50px;
+}
+
+.services{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.services p{
+    line-height: 25px;
+}
+
+.section-1{
+    width: 290px;
+    float: left;
+    margin-right: 10px;
+}
+
+.section-1 img{
+    width: 100%;
+}
+
+.section-1 p{
+    line-height: 25px;
+    font-size: 12px;
+}
+
+.yellow-cold{
+    color:  #fcba03;
+}
+.section-1 img:hover{
+    border: 2px solid #fcba03;
+}
+
